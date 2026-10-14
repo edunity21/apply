@@ -61,3 +61,19 @@
   }
   window.addEventListener('hashchange', revealHash); revealHash();
 })();
+
+(() => {
+ const dialog = document.querySelector('.photo-dialog');
+ if (!dialog) return;
+ let opener;
+ document.querySelectorAll('.photo-open').forEach(button => button.addEventListener('click', () => {
+  opener = button;
+  const img = dialog.querySelector('img');
+  img.src = button.dataset.photo; img.alt = button.dataset.caption;
+  document.getElementById('photo-caption').textContent = button.dataset.caption;
+  dialog.showModal();
+ }));
+ dialog.querySelector('.photo-close').addEventListener('click', () => dialog.close());
+ dialog.addEventListener('click', event => { if (event.target === dialog) { const r = dialog.getBoundingClientRect(); if(event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close(); } });
+ dialog.addEventListener('close', () => { dialog.querySelector('img').removeAttribute('src'); if(opener) opener.focus(); });
+})();

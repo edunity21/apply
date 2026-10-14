@@ -1,0 +1,578 @@
+[
+  {
+    "file": "assets/photos/r0.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\go01_밴드공연.jpg",
+    "caption": "점심시간 소축제 · 밴드 공연",
+    "width": 1500,
+    "height": 845,
+    "sha256": "e01ae26d2aba32cf69b87871d63ddd0058ff8b33bba4a44c7d7569d74c6f07a9",
+    "placement": "paragraph-37"
+  },
+  {
+    "file": "assets/photos/r1.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\go02_관객.jpg",
+    "caption": "점심시간 소축제 · 함께 듣는 관객",
+    "width": 1500,
+    "height": 845,
+    "sha256": "2573f4f9640e88cafaeaa1fa736127205fbf0d944caf44da41e147c6f51dfdd1",
+    "placement": "practice / 교실의 배움이 학교의 무대로"
+  },
+  {
+    "file": "assets/photos/r3.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\go04_무대공연.jpg",
+    "caption": "점심시간 소축제 · 무대 공연",
+    "width": 1500,
+    "height": 845,
+    "sha256": "bceb0bc504b6ec85cb2000ba03dabb118985c3971f42d03e088323035fa24eaa",
+    "placement": "practice / 교실의 배움이 학교의 무대로"
+  },
+  {
+    "file": "assets/photos/r4.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\jr01_부스체험.jpg",
+    "caption": "진로체험 · 모둠별 부스 활동",
+    "width": 1500,
+    "height": 1125,
+    "sha256": "f2e82cf839d135ecbe5761431dd537a8c8aa68f25b6ffaf663a32d1b215e66d4",
+    "placement": "paragraph-59"
+  },
+  {
+    "file": "assets/photos/r5.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\jr02_뮤지컬부스.jpg",
+    "caption": "진로체험 · 뮤지컬 부스",
+    "width": 1500,
+    "height": 1125,
+    "sha256": "2cee011a99f8141b30b0de5ac01b549f5849d5077fdae80522110f0ba872889a",
+    "placement": "research / 체험으로 넓히는 진로 탐색"
+  },
+  {
+    "file": "assets/photos/r6.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\jr03_노트북조사.jpg",
+    "caption": "진로체험 · 노트북을 활용한 탐색",
+    "width": 1500,
+    "height": 1125,
+    "sha256": "b91bf527ac69b6a27e51aacc147affe238047eb0ec251bc4a8a26e45e581c0d2",
+    "placement": "research / 체험으로 넓히는 진로 탐색"
+  },
+  {
+    "file": "assets/photos/r8.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me01_감상_대형화면.jpg",
+    "caption": "ME 프로젝트 · 대형 화면으로 함께 감상",
+    "width": 1500,
+    "height": 845,
+    "sha256": "03351dc771bbbfc5687999dc24d800de0833fb4a9491f07df34d9722be74c34b",
+    "placement": "paragraph-41"
+  },
+  {
+    "file": "assets/photos/r9.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me02_리릭비디오_태블릿.jpg",
+    "caption": "ME 프로젝트 · 태블릿으로 작품 감상",
+    "width": 1500,
+    "height": 845,
+    "sha256": "b19105ea032867ab58296c507eb996b709444d7cd4999aaa7e0bcbf3dbd760d4",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/r11.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me04_가사화면.jpg",
+    "caption": "ME 프로젝트 · 가사와 장면 살펴보기",
+    "width": 1500,
+    "height": 845,
+    "sha256": "a843f85277004de7e6acdf68b26a0ed508c917fe046da68b84eaff1bee2625b7",
+    "placement": "paragraph-40"
+  },
+  {
+    "file": "assets/photos/r12.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me05_모둠창작.jpg",
+    "caption": "ME 프로젝트 · 모둠 창작 활동",
+    "width": 1500,
+    "height": 845,
+    "sha256": "4366db5726e586c456c9937295b9b0e0f69804dd0c9eb80b889adc404f7beae5",
+    "placement": "paragraph-22"
+  },
+  {
+    "file": "assets/photos/r13.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me06_협업_태블릿.jpg",
+    "caption": "ME 프로젝트 · 태블릿 협업",
+    "width": 1500,
+    "height": 845,
+    "sha256": "c26157660a3bd5b015e5aa8b88a54359f732b30cb094bd5ba9d22fdc33e0faea",
+    "placement": "paragraph-39"
+  },
+  {
+    "file": "assets/photos/r14.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me07_학생발표.jpg",
+    "caption": "ME 프로젝트 · 학생의 수업 참여",
+    "width": 1500,
+    "height": 845,
+    "sha256": "fc12b1e312a448741cb9f7195d8deae5cf7602c4378184e43e8d143d02d08653",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/r15.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me08_전체수업.jpg",
+    "caption": "ME 프로젝트 · 교실 전체 감상 활동",
+    "width": 1500,
+    "height": 845,
+    "sha256": "ae857c734325dc55802c6db62151d77cd38c8844d2dbff596ea8669b42431efe",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/r16.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\me09_참관협의회.jpg",
+    "caption": "공개수업 · 참관 후 협의회",
+    "width": 1500,
+    "height": 845,
+    "sha256": "ad82049a09608b3d34643111900628b29800eadc2e957e486a022102fd077732",
+    "placement": "paragraph-30"
+  },
+  {
+    "file": "assets/photos/r18.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr01_연수강의.jpg",
+    "caption": "연구회 정기연수 · 강의와 실습",
+    "width": 1500,
+    "height": 1125,
+    "sha256": "19a72c11869baa683304b899893e911669df7332a2a7640b03bc2f90bb6ec33f",
+    "placement": "paragraph-53"
+  },
+  {
+    "file": "assets/photos/r19.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr02_연수실습.jpg",
+    "caption": "연구회 정기연수 · 동료와 함께하는 실습",
+    "width": 1500,
+    "height": 1125,
+    "sha256": "a853cdae019508a8c0d2de6a87c229fb2539f8f5a9430a4539895653d7bc5981",
+    "placement": "paragraph-26"
+  },
+  {
+    "file": "assets/photos/r20.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr03_음악실연수.jpg",
+    "caption": "연구회 정기연수 · 음악실에서의 배움",
+    "width": 1500,
+    "height": 1125,
+    "sha256": "39f13c0d026f41721ff2997ac41b12ffadd2344395f371dea362647592075849",
+    "placement": "paragraph-25"
+  },
+  {
+    "file": "assets/photos/m0.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\ta01_선도교사.jpg",
+    "caption": "선도교사 연수 · 수업 사례 함께 살펴보기",
+    "width": 1400,
+    "height": 788,
+    "sha256": "f9ddf23a40eac03a6421e95041c980c8ccfd2a71bedd607a449971920ff4dfc3",
+    "placement": "paragraph-44"
+  },
+  {
+    "file": "assets/photos/m1.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\ta02_선도교사2.jpg",
+    "caption": "선도교사 연수 · 노트북을 활용한 실습",
+    "width": 1400,
+    "height": 788,
+    "sha256": "83c7bb50e0d981db9fc7f2f6b536d251156456dc44f1aba19c4f244c3585e63f",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m3.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\tb02_기본연수2.jpg",
+    "caption": "실증전문가 기본연수 · 함께 나누는 의견",
+    "width": 1400,
+    "height": 788,
+    "sha256": "e7c868870f8de71b6736dce575a32d460ae68b2a1fefd47fd308ae99c24f7985",
+    "placement": "paragraph-45"
+  },
+  {
+    "file": "assets/photos/m4.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\tc01_코칭연수.jpg",
+    "caption": "코칭 역량강화 · 강의에 참여하는 교사들",
+    "width": 1400,
+    "height": 788,
+    "sha256": "d2c5c0bb914a61d16309802195e0d377d7fff60b7483730bdba5d0ba98e267c2",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m5.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\tc02_코칭연수2.jpg",
+    "caption": "코칭 역량강화 · 수업을 돌아보는 배움",
+    "width": 1400,
+    "height": 788,
+    "sha256": "1774b03a407f4444016c58b1b8ae0bf276ca6b113834f7e02440ca77f69bbd16",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m6.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\td01_AI디지털.jpg",
+    "caption": "AI·디지털 심화연수 · 교실에서 함께 배우기",
+    "width": 1400,
+    "height": 788,
+    "sha256": "61e6744e861fda3fbd185122a5f30f632bb6ed7580b7735cd2bd857f6f7fcce2",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m7.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\td02_AI디지털2.jpg",
+    "caption": "AI·디지털 심화연수 · 화면을 활용한 설명",
+    "width": 1400,
+    "height": 788,
+    "sha256": "129c5d51f287fbf394d0d91a017e71f46fea6dce52fd7b5db799f961b51e739a",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m8.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\tk01_keris_강의장.jpg",
+    "caption": "KERIS 심화연수 · 전체 강의",
+    "width": 1400,
+    "height": 788,
+    "sha256": "288faa663464e8163c67d0142f424792493b518f0a5936f4c99d9218e69c5d05",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m9.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\tk02_keris_실습.jpg",
+    "caption": "KERIS 심화연수 · 실습 과정 공유",
+    "width": 1400,
+    "height": 788,
+    "sha256": "30e3ff41614f794f9df3a8b61778230c5e4ccb9f36d137d465c2c523d6ac71b9",
+    "placement": "paragraph-46"
+  },
+  {
+    "file": "assets/photos/m10.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\tk03_keris_모둠실습.jpg",
+    "caption": "KERIS 심화연수 · 모둠별 협업",
+    "width": 1400,
+    "height": 788,
+    "sha256": "de1e6df335817a915e80b586a374eabb1215f5990a825d1bad9f96f678293c40",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m11.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\tk04_keris_모둠실습2.jpg",
+    "caption": "KERIS 심화연수 · 도구를 활용한 모둠 실습",
+    "width": 1400,
+    "height": 788,
+    "sha256": "9e6ab1cf83b49d9d65c5e7baf60a939c15bc4b4327613456f3354c0a75abbf1c",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m12.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\ts01_실증_연수장.jpg",
+    "caption": "실증전문가 심화연수 · 연수 공간",
+    "width": 1400,
+    "height": 788,
+    "sha256": "a80540e9d952e34bd49a3801cc299d8801cf65c296cb9b2276e3dbc9e68dfd1a",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m13.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\ts02_실증_전체실습.jpg",
+    "caption": "실증전문가 심화연수 · 전체 실습",
+    "width": 1400,
+    "height": 788,
+    "sha256": "312e44281b82a6b66ca64d220da3602d01451ac64b7c2e5537db0a68bb2516ad",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m14.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\ts03_실증_실습.jpg",
+    "caption": "실증전문가 심화연수 · 자료를 살펴보는 시간",
+    "width": 1400,
+    "height": 788,
+    "sha256": "91ffd5e04c447b2b9f2798ac636e29c24f9811ff70824660b9252ca8d06c5916",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m15.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\tr\\ts04_실증_모둠.jpg",
+    "caption": "실증전문가 심화연수 · 모둠별 활동",
+    "width": 1400,
+    "height": 788,
+    "sha256": "84a0f1f455c2e06c8545779c5854af3a5615d753efd7e5342c935911f694e614",
+    "placement": "classroom / 배우는 교사의 다양한 현장"
+  },
+  {
+    "file": "assets/photos/m17.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\gx02_공연.jpg",
+    "caption": "점심시간 소축제 · 무대와 객석",
+    "width": 1300,
+    "height": 732,
+    "sha256": "08ee512a4d7ff0a30589f9049ebd6da7c2bc7073e66b9d0330848f7edae56ab2",
+    "placement": "practice / 교실의 배움이 학교의 무대로"
+  },
+  {
+    "file": "assets/photos/m18.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\gx03_관객환호.jpg",
+    "caption": "점심시간 소축제 · 함께 호응하는 관객",
+    "width": 1300,
+    "height": 732,
+    "sha256": "3b47617a528bb10a99204a3c6f52338f61a593ae96e769d0b396877f5a816fa8",
+    "placement": "practice / 교실의 배움이 학교의 무대로"
+  },
+  {
+    "file": "assets/photos/m19.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\gx04_무대.jpg",
+    "caption": "점심시간 소축제 · 무대를 채우는 학생들",
+    "width": 1300,
+    "height": 732,
+    "sha256": "a69e277d9359331bc9f562d389394743143d18c5a7f31e36b4f37e75e711e582",
+    "placement": "practice / 교실의 배움이 학교의 무대로"
+  },
+  {
+    "file": "assets/photos/m20.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\jx01_부스.jpg",
+    "caption": "진로체험 · 초콜릿 공예 부스",
+    "width": 1300,
+    "height": 975,
+    "sha256": "e25c1c0c896794928d4c13cb3dca97d361faf737397d31a746cf5780e1a33c99",
+    "placement": "research / 체험으로 넓히는 진로 탐색"
+  },
+  {
+    "file": "assets/photos/m21.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\jx02_체험.jpg",
+    "caption": "진로체험 · 교실에서의 체험 활동",
+    "width": 1300,
+    "height": 975,
+    "sha256": "3b3877acb2588a019608a0c20e32e933840a16ca5db7742ee791257366ca4645",
+    "placement": "research / 체험으로 넓히는 진로 탐색"
+  },
+  {
+    "file": "assets/photos/m23.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\jx04_상담.jpg",
+    "caption": "진로체험 · 다양한 직업 이야기",
+    "width": 1300,
+    "height": 975,
+    "sha256": "54905e79a7fb015192df028dc15f47434b512a26ff518d4446ffd2fbe44b2f45",
+    "placement": "research / 체험으로 넓히는 진로 탐색"
+  },
+  {
+    "file": "assets/photos/m24.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\jx05_발표.jpg",
+    "caption": "진로체험 · 모둠별 대화",
+    "width": 1300,
+    "height": 975,
+    "sha256": "bbbf335cca4824bb3fc42942b622c724b174e9a78ea5d2de6ed4946373afedae",
+    "placement": "research / 체험으로 넓히는 진로 탐색"
+  },
+  {
+    "file": "assets/photos/m25.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\mx01_모둠토의.jpg",
+    "caption": "ME 프로젝트 · 태블릿을 보며 의견 나누기",
+    "width": 1300,
+    "height": 732,
+    "sha256": "b8a750b663da66f5523f4b11eeb86d2ea0ff7731bf3a5ecf8d9f2cbcb737793b",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/m26.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\mx02_태블릿작성.jpg",
+    "caption": "ME 프로젝트 · 개별 태블릿 활동",
+    "width": 1300,
+    "height": 732,
+    "sha256": "5525f1db0c50554d334010c7c2c6a123f1f98eb861b7690ad9e0ffed697c5d4b",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/m27.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\mx03_개별지도.jpg",
+    "caption": "ME 프로젝트 · 활동 과정 함께 살펴보기",
+    "width": 1300,
+    "height": 732,
+    "sha256": "f351f5e4ab22041189752d6394c4d308b9bdc6498d829c9d3f511b7e6c4f4845",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/m28.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\mx04_활동지작성.jpg",
+    "caption": "ME 프로젝트 · 모둠별 기록 활동",
+    "width": 1300,
+    "height": 732,
+    "sha256": "0671f07ad9ba9e77d78ce8ac3ba948fdec1de60701c4d06cd20652ebed1fbb25",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/m29.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\mx05_대형화면감상.jpg",
+    "caption": "ME 프로젝트 · 화면과 태블릿을 함께 활용",
+    "width": 1300,
+    "height": 732,
+    "sha256": "0081d2aebb322061b6cc3aad8aa400ed4f65f1f47398b1db246dcb67094adea5",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/m30.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\mx06_감상집중.jpg",
+    "caption": "ME 프로젝트 · 감상에 집중하는 학생들",
+    "width": 1300,
+    "height": 732,
+    "sha256": "f75fc4f9e13353f0310436c4fc7a825ce9330cf2987029ce958257b8c2c1f3a8",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/m32.jpg",
+    "source": "사진 활동 자료_모자이크\\_보고서용\\add\\mx08_전체감상.jpg",
+    "caption": "ME 프로젝트 · 나란히 앉아 작품 감상",
+    "width": 1300,
+    "height": 732,
+    "sha256": "b8befa654555e48a09a42e73bf9543c59580f350f542f3f1515d058c61cdd2c9",
+    "placement": "classroom / 함께 만들고, 함께 감상하는 교실"
+  },
+  {
+    "file": "assets/photos/student-144.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN0097.jpg",
+    "caption": "태블릿과 종이 활동지를 함께 살펴보기",
+    "width": 1600,
+    "height": 1200,
+    "sha256": "625f577ba3e69286898a5ace79f9a9da087e4e0a1d9eea66a075c357b7f5afed",
+    "placement": "classroom / 학생 수업활동 / 읽고, 생각하고, 기록하기"
+  },
+  {
+    "file": "assets/photos/student-148.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN009B.jpg",
+    "caption": "화면을 확인하며 활동지에 기록하기",
+    "width": 1600,
+    "height": 1200,
+    "sha256": "f1644fe89aa0055977c435442218f69dcf22b201c794ccd9738531b967263145",
+    "placement": "classroom / 학생 수업활동 / 읽고, 생각하고, 기록하기"
+  },
+  {
+    "file": "assets/photos/student-449.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00D0.jpg",
+    "caption": "학습 화면과 기록지를 나란히 놓고 활용하기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "47c43f5bda6a22d42f52be3a71f40509a8744f73b1222e8bc159252c19bed30d",
+    "placement": "classroom / 학생 수업활동 / 읽고, 생각하고, 기록하기"
+  },
+  {
+    "file": "assets/photos/student-452.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00D3.jpg",
+    "caption": "태블릿에 자신의 생각 입력하기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "1668c3141035646d722a7713e701c1fdfa366e431c179a339e22dd15a9dddd01",
+    "placement": "classroom / 학생 수업활동 / 읽고, 생각하고, 기록하기"
+  },
+  {
+    "file": "assets/photos/student-453.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00D4.jpg",
+    "caption": "활동지와 디지털 자료를 오가며 작성하기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "cd410b077c177fdf2710a730f379fb5dc7c30fca66fc39a9ec692b0b372845fb",
+    "placement": "classroom / 학생 수업활동 / 읽고, 생각하고, 기록하기"
+  },
+  {
+    "file": "assets/photos/student-457.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00D8.jpg",
+    "caption": "개별 화면을 확인하며 작업 이어가기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "016a785966e59182e25cc8d35b4cc6c432e9df105a413e33d8a26cfa613b229b",
+    "placement": "classroom / 학생 수업활동 / 읽고, 생각하고, 기록하기"
+  },
+  {
+    "file": "assets/photos/student-150.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN009D.jpg",
+    "caption": "여러 태블릿을 활용한 모둠 작업",
+    "width": 1600,
+    "height": 901,
+    "sha256": "309273ff4d14dcccc10ea512631364b7f86bf9b12f4edf986f3e2e1972513447",
+    "placement": "classroom / 학생 수업활동 / AI와 디지털 도구로 탐색하기"
+  },
+  {
+    "file": "assets/photos/student-154.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN00A1.jpg",
+    "caption": "화면을 가리키며 함께 살펴보기",
+    "width": 1920,
+    "height": 1081,
+    "sha256": "ab2f6a457c83b18eefb61493fcf7f2367a8b658f94e424bbe5e52448cfd3042d",
+    "placement": "classroom / 학생 수업활동 / AI와 디지털 도구로 탐색하기"
+  },
+  {
+    "file": "assets/photos/student-157.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN00A4.jpg",
+    "caption": "화면과 기록지를 확인하는 개별 활동",
+    "width": 1920,
+    "height": 1081,
+    "sha256": "9b785e3b1e53cb89998fa303dcea01efe9a1b0aeb65092b20566d77309a4eea2",
+    "placement": "classroom / 학생 수업활동 / AI와 디지털 도구로 탐색하기"
+  },
+  {
+    "file": "assets/photos/student-443.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00CA.jpg",
+    "caption": "모둠 자료와 화면을 함께 확인하기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "52e9ac93b7d8997ad930f00a7147cad1a882e84ca73b320b1733c016f60fb35e",
+    "placement": "classroom / 학생 수업활동 / AI와 디지털 도구로 탐색하기"
+  },
+  {
+    "file": "assets/photos/student-446.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00CD.jpg",
+    "caption": "자신의 태블릿에서 작업에 집중하기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "490e88d3fbe70b99698bafc86afa38bcb88080dd5d4c0a753dd9c47344eed4ae",
+    "placement": "classroom / 학생 수업활동 / AI와 디지털 도구로 탐색하기"
+  },
+  {
+    "file": "assets/photos/student-448.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00CF.jpg",
+    "caption": "디지털 자료를 살펴보며 활동 이어가기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "a1d6b613e57cc4b8d16f76532c4a66c73beec46fe36797bffde05be8d258808f",
+    "placement": "classroom / 학생 수업활동 / AI와 디지털 도구로 탐색하기"
+  },
+  {
+    "file": "assets/photos/student-151.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN009E.jpg",
+    "caption": "서로의 화면을 보며 의견 나누기",
+    "width": 1920,
+    "height": 1081,
+    "sha256": "717fdc00e842f0631194f19a04539553c192b7393c9dca32799010aedccb5905",
+    "placement": "classroom / 학생 수업활동 / 함께 의논하고 수업에 참여하기"
+  },
+  {
+    "file": "assets/photos/student-152.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN009F.jpg",
+    "caption": "같은 책상에서 함께 작업하기",
+    "width": 1920,
+    "height": 1081,
+    "sha256": "2c9bd343fd5c9c4738fa8f40653f84340158147c71007511ab336087c20de2b7",
+    "placement": "classroom / 학생 수업활동 / 함께 의논하고 수업에 참여하기"
+  },
+  {
+    "file": "assets/photos/student-155.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN00A2.jpg",
+    "caption": "태블릿을 가운데 두고 협력하기",
+    "width": 1920,
+    "height": 1081,
+    "sha256": "1ba695e7037610ec5f711b5a3742f812d3e040544fb81e7af963fd24bf5943cc",
+    "placement": "classroom / 학생 수업활동 / 함께 의논하고 수업에 참여하기"
+  },
+  {
+    "file": "assets/photos/student-156.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN00A3.jpg",
+    "caption": "모둠원이 함께 자료 살펴보기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "4bab0e28bafd73b5d8692a777d4b4eaaff3ada708354857e07ef4ce3f0fdbcbb",
+    "placement": "classroom / 학생 수업활동 / 함께 의논하고 수업에 참여하기"
+  },
+  {
+    "file": "assets/photos/student-451.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00D2.jpg",
+    "caption": "교실 전체가 참여하는 태블릿 수업",
+    "width": 1600,
+    "height": 901,
+    "sha256": "ab2376a98d962b4a13de912c3787ca81c90d191e13add4a1d1d106cd2c14f2fc",
+    "placement": "classroom / 학생 수업활동 / 함께 의논하고 수업에 참여하기"
+  },
+  {
+    "file": "assets/photos/student-458.jpg",
+    "source": "스마트교육 연구보고서 / BinData/BIN00D9.jpg",
+    "caption": "짝과 나란히 화면 확인하기",
+    "width": 1600,
+    "height": 901,
+    "sha256": "5ae7392fa48c91f7720176079f7a9dffa8d71b2cd53d5bf6ac1adb200b049941",
+    "placement": "classroom / 학생 수업활동 / 함께 의논하고 수업에 참여하기"
+  }
+]
