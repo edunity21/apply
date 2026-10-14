@@ -123,7 +123,7 @@
     "width": 1500,
     "height": 845,
     "sha256": "ad82049a09608b3d34643111900628b29800eadc2e957e486a022102fd077732",
-    "placement": "paragraph-30"
+    "placement": "open-class / 참관 후 협의회"
   },
   {
     "file": "assets/photos/r18.jpg",
@@ -574,5 +574,23 @@
     "height": 901,
     "sha256": "5ae7392fa48c91f7720176079f7a9dffa8d71b2cd53d5bf6ac1adb200b049941",
     "placement": "classroom / 학생 수업활동 / 함께 의논하고 수업에 참여하기"
+  },
+  {
+    "file": "assets/photos/openclass-67.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN0046.jpeg",
+    "caption": "1차 공개수업 · 수업의 방향과 창작 과정 안내",
+    "width": 850,
+    "height": 637,
+    "sha256": "9252a8e68e8cf967c3dc128aa38740b89dd58d0f551db06668ab962ea8a25035",
+    "placement": "open-class"
+  },
+  {
+    "file": "assets/photos/openclass-68.jpg",
+    "source": "학교예술교육 연구보고서 / BinData/BIN0047.jpg",
+    "caption": "1차 공개수업 · 디지털 도구를 활용한 제작 과정 시연",
+    "width": 1600,
+    "height": 801,
+    "sha256": "fe3d02057d01d1a242ddf057018129a9c347a3038ccc622185990abc6cb79e66",
+    "placement": "open-class"
   }
 ]
